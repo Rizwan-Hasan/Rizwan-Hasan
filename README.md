@@ -15,7 +15,7 @@
         </a>
     </p>
     <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=Rizwan-Hasan&hide=issues&count_private=true&&hide_border=true&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff"
+        <img src="https://github-readme-stats.vercel.app/api?username=Rizwan-Hasan&hide=issues&count_private=true&&hide_border=true&include_all_commits=true&show_icons=true&theme=calm"
         />
     </p>
 </div>
