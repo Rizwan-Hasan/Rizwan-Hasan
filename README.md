@@ -48,7 +48,7 @@
     </p>
     <p>
         <img 
-             src="https://github-readme-stats.vercel.app/api?username=Rizwan-Hasan&hide=issues&count_private=true&&hide_border=true&include_all_commits=true&show_icons=true&theme=calm" 
+             src="https://github-readme-stats.vercel.app/api?username=Rizwan-Hasan&hide=issues&count_private=true&&hide_border=true&include_all_commits=false&show_icons=true&theme=calm" 
         />
     </p>
 </div>
