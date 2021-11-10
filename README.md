@@ -45,12 +45,6 @@
                 alt="Researchgate Badge"
             />
         </a>
-        <a href="https://www.instagram.com/rizwan.hasan.486/">
-            <img 
-                 src="https://img.shields.io/badge/-@rizwan486-E4405F?style=flat-square&amp;labelColor=D3304E&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/rizwan.hasan.486" 
-                 alt="Instagram Badge" 
-            />
-        </a>
     </p>
     <p>
         <img 
