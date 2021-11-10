@@ -62,4 +62,4 @@
 
 - 📫 How to reach me: mail
 - 😄 Pronouns: He
-- ⚡ Fun fact: I love anime, manga, light-novel, psychology, music.
+- ⚡ Fun fact: I love anime, manga, light-novel, music and psychology.
