@@ -11,7 +11,7 @@
         </a>
         <a href="https://www.linkedin.com/in/rizwan486/">
             <img 
-                 src="https://img.shields.io/badge/-@riwan486-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rizwan486/" 
+                 src="https://img.shields.io/badge/-rizwan486-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rizwan486/" 
                  alt="Linkedin: Rizwan Hasan" 
             />
         </a>
