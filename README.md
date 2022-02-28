@@ -40,7 +40,7 @@
     </p>
 </div>
 
-## Working as a Software Engineer (Full-time) in <a href="https://clear.ml"><img src="https://clearml.b-cdn.net/wp-content/uploads/2020/12/clearml-logo.svg" width="128px" alt="ClearML" /></a>
+## Working as a Software Engineer (Full-time) at <a href="https://clear.ml"><img src="https://clearml.b-cdn.net/wp-content/uploads/2020/12/clearml-logo.svg" width="128px" alt="ClearML" /></a>
 
 <div align="center">
     <p>
