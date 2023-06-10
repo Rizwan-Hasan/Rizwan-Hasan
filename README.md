@@ -52,6 +52,5 @@
 - 📫 How to reach me: mail
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love anime, manga, light-novel, music, philosophy, psychology.
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rizwan486)
+- 🦾 Curriculum Vitae (CV): [Click here to download](Curriculum%20Vitae%20(CV).pdf)
 
