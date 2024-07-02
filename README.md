@@ -40,7 +40,7 @@
     </p>
 </div>
 
-## Software Engineer at <a href="https://social27.com/">Social27 Inc.</a>
+## Software Engineer at <a href="https://hivegpt.ai/">HiveGPT</a>
 
 <div align="center">
     <p>
