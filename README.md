@@ -40,7 +40,7 @@
     </p>
 </div>
 
-## Software Engineer at <a href="https://ternary.solutions/">Ternary Solutions, Inc</a>
+## Software Engineer at <a href="https://counterfoil.app/">Counterfoil, Inc</a>
 
 <div align="center">
     <p>
